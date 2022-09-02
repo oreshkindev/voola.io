@@ -1,0 +1,121 @@
+---
+section_1:
+  title: The VOOLA ecosystem is a revolution in the world of finance.
+  description: SuperApp VOOLA, combining innovative technologies, will turn your money management experience around. Our unique developments bring security, data exchange and ease of use to a new level. Now VOOLA is your lifestyle!
+  button: Create Wallet
+
+section_2:
+  title: What does VOOLA WALLET give you?
+  items:
+    item_0:
+      title: Flexible work with digital assets.
+      description: The functionality allows you to work comfortably with digital assets in ANY country.
+    item_1:
+      title: Buy/Sell cryptocurrency
+      description: Cryptocurrencies and Fiat in one application - manage your digital assets with VOOLA
+    item_2:
+      title: WEB3
+      description: Use your favorite decentralized applications without leaving your wallet
+    item_3:
+      title: Smart exchange
+      description: Exchange your assets in one app
+    item_4:
+      title: Mobile App
+      description: Make transfers, store, buy, spend any currency online and offline anytime and anywhere
+    item_5:
+      title: The security of your funds is embedded in the architecture
+      description: Our crypto wallet provides reliable protection against fraudsters
+
+section_3:
+  title: Cryptocards
+  items:
+    item_0:
+      title: VOOLA technologies allow
+      description: Use of the VOOLA card is possible anywhere in the world where bank card payments are supported.
+    item_1:
+      title: Travel
+      description: 'Using the our card without borders: automatic conversion of digital assets. Payment for tickets and hotels via the Viola app using stable NFT coins.'
+    item_2:
+      title: Shopping
+      description: Use of the VOOLA card when making purchases.
+
+section_4:
+  title: Where to begin? With simple steps!
+  items:
+    item_0: Download the app
+    item_1: Create your first wallet
+    item_2: Store, buy, sell, earn, withdraw cryptocurrency – safely, quickly and simply
+  button: Download App
+
+section_5:
+  items:
+    item_0: Download Presentation
+    item_1: Download White paper
+
+section_6:
+  title: What are Stable NFT tokens and how do they work?
+  description: Stable NFT from VOOLA is an art of gold coins with a certain denomination (for example, $100) that you can use to pay for goods and services, send, give not only online but also in the form of crypto coupons. Our smart contract system allows you to exchange Stable NFT as if you received change in a store. For example, you need to withdraw $40 to your card, and you only have $100 NFT. The smart wallet itself will burn NFT for $100, replenish your card for $40, and minting $60 new Stable NFT to your wallet.
+
+section_7:
+  title: Where to store Stable NFT
+  description: Stable NFT you can buy in our marketplace as well as NFT tokens of other authors.
+
+section_8:
+  title: Assets and blockchains supported by VOOLA
+  description: Listing in progress ...
+
+section_9:
+  title: Why do I need Smartcard?
+  description: Assets can be stored on an exchange, on online services or in an application on a computer. All these methods are extremely risky, since accounts on exchanges are often hacked, and funds are stolen. At the moment, there is one most secure way to store cryptocurrencies – a hardware device that cannot be hacked. With a hardware device, you can not worry about the safety of assets.
+
+section_10:
+  title: Crypto Coupon VoolaNote
+  description: 'Our coupons provide the highest level of security from graphic design to manufacture, which makes them comparable to real banknotes. The printing process is carried out in accordance with strict security protocol and takes place in Dubai, under the jurisdiction of the UAE. Volanote simplifies the possibility of buying cryptocurrencies. A huge number of ways to purchase a Coupon makes the platform accessible to citizens of many countries. The following methods are offered for the purchase of a Coupon:'
+  items:
+    item_0: Purchase of a coupon at terminals located in public places
+    item_1: Buying a coupon at the store`s checkout is as easy as, for example"
+    item_2: Purchase of a coupon through the Google Wallet mobile app
+  content: Crypto Coupon will save you time rather than paying with bank cards. This payment system offers the cheapest way to buy cryptocurrencies Crypto Coupon, you can buy, exchange and make transactions with cryptocurrency in an instant!
+
+section_11:
+  title: WeOla Messenger
+  description: No application existing on the market today will give you as many convenient functions as there are in the new application from VOOLA, which has implemented about 14 services in its application, including crypto wallets. <br /><br />It has a high degree of protection and reliably preserves not only correspondence and your personal data from external intrusion, but also your money when making quick transfers to another user, when running your business, when paying utility bills, ordering food at home, taxis, goods and other services. Messenger works without VPN all over the world. Available for installation even in China. And voice communication also works in the UAE. <br /><br /> Well, the most unique functionality that is embedded in this application is the ability to make calls of more than 1 billion. people on the planet. You can download the new WeOla messenger for Android and iOS for free and communicate with the whole world absolutely for free, even if your friends do not have the WeOla messenger installed.
+  button: Download App
+
+section_12:
+  title: VOOLA OS
+  description: It is the only independent open source mobile OS not affiliated with large corporations, supported by strong intellectual property rights, including full intellectual property and trademark rights. VOOLA OS was developed by the Lithuanian mobile company Laboratory of seven possibilities UAB by a team of efficient and highly qualified engineers working together since 2017. <br /><br />VOOLA OS is an ideal strategic solution for corporations and governments, as well as a popular OS for mobile enthusiasts looking for an alternative.
+  button: Read more
+
+section_13:
+  title: Wallet App
+  description: Securely store cryptocurrencies on your Android and Apple devices with VOOLA Gives you confidence that your digital assets are safe.
+  button: Download App
+  content: Our app will be available soon..
+
+section_14:
+  title: Stay tuned for our updates.
+  description: We would be grateful if you would support us and subscribe to our Telegram channels.
+
+navbar:
+  items:
+    item_0: What does VOOLA give you?
+    item_1: Cryptocurrency cards
+    item_2: NFT stable token
+    item_3: VoolaNote crypto-vouchers
+    item_4: WeOla messenger
+    item_5: Operating system
+    item_6: Wallet app
+    item_7: Contact Us
+
+footer:
+  items:
+    item_0: NFTs E-Marketplace provider licensee VOOLA DMCC 854291 registration number DMCC194133
+    item_1: 2022 UAB Labaratory of Seven Possibilities operates VOOLA Platform and is registered under number 306026599 by the State Enterprise Centre of Registers of the Republic of Lithuania as a provider of activities of a virtual currency exchange operator.
+  navbar:
+    items:
+      item_0: VOOLA AML
+      item_1: Privacy Policy
+      item_2: Cookies Policy
+      item_3: Terms and Conditions
+      item_4: Contact Us
