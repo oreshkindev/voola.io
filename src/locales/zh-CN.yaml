@@ -110,8 +110,17 @@ navbar:
 
 footer:
   items:
-    item_0: 电子交易平台提供商NFT的VOOLA DMCC 854291 注册号DMCC194133
-    item_1: 2022 UAB 七种可能性实验室管理着 VOOLA 平台，并在立陶宛共和国国家企业注册中心注册为虚拟货币兑换运营商，注册号为 306026599。
+    item_0:
+      content: 电子交易平台提供商NFT的
+      link: VOOLA DMCC 854291 注册号DMCC194133
+    item_1:
+      content: 2022 UAB
+      link: 七种可能性实验室
+    item_2:
+      content: 管理着 VOOLA 平台，注册号为
+      link: '306026599'
+    item_3:
+      content: 并在立陶宛共和国国家企业注册中心注册为虚拟货币兑换运营商
   navbar:
     items:
       item_0: VOOLA AML

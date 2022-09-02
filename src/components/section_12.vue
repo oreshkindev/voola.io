@@ -10,32 +10,19 @@ const { t } = useI18n()
 
 <template>
   <section>
-    <grid :columns="2">
-      <article>
-        <h2 v-text="t('section_12.title')" />
-
-        <p v-html="t('section_12.description')" />
-
-        <!-- <a href="//os.voola.io" class="button" v-text="t('section_12.button')" target="_blank" /> -->
-      </article>
-
-      <picture>
-        <source media="(max-width: 928px)" srcset="../assets/images/Mockup-iPhone.png" />
-        <source media="(min-width: 928px)" srcset="../assets/images/Mockup-iPhone@2x.png" />
-        <img src="../assets/images/Mockup-iPhone@2x.png" alt="" />
-      </picture>
-    </grid>
+    <h2 v-text="t('section_12.title')" />
+    <p v-text="t('section_12.description')" />
   </section>
 </template>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 section {
-  img {
-    max-width: 300px;
-  }
-  div {
-    align-items: center;
+  text-align: center;
+  h2,
+  p {
+    max-width: 700px;
+    margin: auto auto 40px;
   }
 }
 </style>

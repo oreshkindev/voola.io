@@ -18,8 +18,18 @@ const { t } = useI18n()
     </svg>
 
     <ul>
-      <li v-text="t('footer.items.item_0')" />
-      <li v-text="t('footer.items.item_1')" />
+      <li>
+        {{ t('footer.items.item_0.content') }}
+        <a href="https://dmcc.secure.force.com/DocumentsVerification/?docId=004-0854291-270722" v-text="t('footer.items.item_0.link')" target="_blank" />
+      </li>
+
+      <li>
+        {{ t('footer.items.item_1.content') }}
+        <a href="mailto:sevenpossibilities@inbox.lt?subject=Hello" v-text="t('footer.items.item_1.link')" />
+        {{ t('footer.items.item_2.content') }}
+        <a href="https://www.registrucentras.lt/jar/p/dok.php?kod=306026599" rel="noreferrer" target="_blank" v-text="t('footer.items.item_2.link')" />
+        {{ t('footer.items.item_3.content') }}
+      </li>
     </ul>
   </grid>
 </template>
@@ -40,6 +50,10 @@ div {
   ul {
     li {
       margin: 20px 0;
+
+      a {
+        text-decoration: underline;
+      }
     }
   }
 }
