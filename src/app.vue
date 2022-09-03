@@ -6,9 +6,13 @@ import { useI18n } from 'vue-i18n'
 import Header from './components/header.vue'
 import Footer from './components/footer.vue'
 
-const { t } = useI18n()
+const { t, locale } = useI18n()
 
 document.title = t('section_1.title')
+
+if (locale.value == 'ar-AE') {
+  document.dir = 'rtl'
+}
 </script>
 
 <template>
@@ -216,7 +220,7 @@ document.title = t('section_1.title')
 
 @media only screen and (max-width: 928px) {
   :root {
-    --scheme-h: 42px;
+    --scheme-h: 36px;
     --scheme-m: 26px;
   }
 }

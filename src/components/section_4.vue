@@ -68,7 +68,7 @@ section {
     border-radius: 50px;
     color: var(--scheme-v2);
     font-size: 36px;
-    margin: 0 20px 0 0;
+    margin: 0 20px;
     padding: 20px;
 
     @media only screen and (max-width: 928px) {

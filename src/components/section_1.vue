@@ -44,6 +44,10 @@ section {
   picture {
     img {
       width: 100%;
+
+      @media only screen and (max-width: 928px) {
+        max-width: 100% !important;
+      }
     }
   }
 
@@ -55,6 +59,10 @@ section {
   h1,
   svg {
     margin: 100px 0 40px;
+
+    @media only screen and (max-width: 928px) {
+      margin: 50px 0 40px;
+    }
   }
 }
 </style>

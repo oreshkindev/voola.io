@@ -49,7 +49,7 @@ items.forEach((item, i) => {
   return (isActive = item == items[i])
 })
 
-const setLocale = (item: string) => (locale.value = item)
+const setLocale = (item: string) => ((locale.value = item), item == 'ar-AE' ? (document.dir = 'rtl') : '')
 </script>
 
 <template>
