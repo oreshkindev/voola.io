@@ -8,9 +8,10 @@ import VueScrollTo from 'vue-scrollto'
 createApp(app)
   .use(router)
   .use(
-    createI18n({
+    createI18n<false>({
+      fallbackLocale: 'en-US',
       legacy: false,
-      locale: 'zh-CN',
+      locale: navigator.language, // preferred
       messages,
     })
   )
