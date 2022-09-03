@@ -7,7 +7,7 @@ import Backward from '../../components/backward.vue'
 
 <template>
   <section>
-    <crumbs />
+    <Backward />
 
     <h1>Terms and Conditions</h1>
 
@@ -232,17 +232,10 @@ import Backward from '../../components/backward.vue'
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 section {
-  padding: 0;
-
-  max-width: var(--scheme-max-width);
-
-  article {
-    padding: 0 2rem;
-  }
+  margin: 0 auto;
 
   h1 {
     margin: 4rem 0;
-    padding: 0 2rem;
   }
 
   h2 {
