@@ -23,7 +23,7 @@ const { t } = useI18n()
 
         <p v-text="t('section_1.description')" />
 
-        <button v-text="t('section_1.button')" />
+        <button v-text="t('section_1.button')" v-scroll-to="'#g'" />
       </div>
 
       <picture>
