@@ -162,6 +162,12 @@ if (locale.value == 'ar-AE') {
 
 // initialize project fonts from @assets
 @font-face {
+  font-family: 'Helvetica';
+  src: local('./assets/fonts/HelveticaNeue-Light'), url('./assets/fonts/HelveticaNeue-Light.otf') format('opentype');
+  font-weight: 300;
+}
+
+@font-face {
   font-family: 'Renner*';
   src: local('./assets/fonts/renner-light'), url('./assets/fonts/renner-light.otf') format('opentype');
   font-weight: 300;

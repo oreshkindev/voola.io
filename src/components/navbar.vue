@@ -49,7 +49,7 @@ items.forEach((item, i) => {
   return (isActive = item == items[i])
 })
 
-const setLocale = (item: string) => ((locale.value = item), item == 'ar-AE' ? (document.dir = 'rtl') : '')
+const setLocale = (item: string) => ((locale.value = item), item == 'ar-AE' ? (document.dir = 'rtl') : (document.dir = 'ltr'))
 </script>
 
 <template>
@@ -62,7 +62,7 @@ const setLocale = (item: string) => ((locale.value = item), item == 'ar-AE' ? (d
 
     <ul>
       <li v-for="item in availableLocales" :key="item" @click="setLocale(item)" :class="{ active: item == locale }">
-        {{ item }}
+        {{ item.slice(3, 5) }}
       </li>
     </ul>
   </nav>

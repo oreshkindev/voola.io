@@ -1,0 +1,130 @@
+---
+section_1:
+  title: Voola ekosistemi finans dünyasında bir devrimdir.
+  description: SuperApp Voola yenilikçi teknolojileri birleştirerek, para yönetimi deneyiminizi tersine çevirecektir. Benzersiz gelişmelerimiz güvenlik, veri alışverişi ve kullanım kolaylığını yeni bir seviyeye taşıyor. Şimdi Voola senin yaşam tarzın!
+  button: Cüzdan Oluştur
+
+section_2:
+  title: Voola Wallet sana ne veriyor?
+  items:
+    item_0:
+      title: Dijital varlıklarla esnek çalışma.
+      description: İşlevsellik, herhangi bir ülkedeki dijital varlıklarla rahatça çalışmanıza olanak tanır.
+    item_1:
+      title: Kripto para al/Sat
+      description: Tek bir uygulamada kripto para birimleri ve fiat - Voola ile dijital varlıklarınızı yönetin.
+    item_2:
+      title: WEB3
+      description: Cüzdanınızdan çıkmadan en sevdiğiniz merkezi olmayan uygulamaları kullanın.
+    item_3:
+      title: Akıllı değişim
+      description: Varlıklarınızı tek bir uygulamada değiştirin.
+    item_4:
+      title: Mobil Uygulama
+      description: Her zaman ve her yerde transferler yapın, saklayın, satın alın, herhangi bir para birimini çevrimiçi ve çevrimdışı olarak harcayın.
+    item_5:
+      title: Fonlarınızın güvenliği mimariye gömülüdür
+      description: Kripto cüzdanımız dolandırıcılara karşı güvenilir koruma sağlar.
+
+section_3:
+  title: Cryptocards
+  items:
+    item_0:
+      title: 'Voola teknolojileri şunları sağlar:'
+      description: Voola kartının kullanımı, banka kartı ödemelerinin desteklendiği dünyanın herhangi bir yerinde mümkündür.
+    item_1:
+      title: Seyahat etmek
+      description: Sınır Tanımayan kartımızı kullanma':' dijital varlıkların otomatik dönüşümü. StableNFT coins kullanarak Voola uygulaması üzerinden bilet ve oteller için ödeme.
+    item_2:
+      title: Alışveriş
+      description: Alışveriş yaparken Voola kartının kullanılması.
+
+section_4:
+  title: Nereden başlamalı? Basit adımlarla!
+  items:
+    item_0: Uygulamayı indirin
+    item_1: İlk cüzdanınızı oluşturun
+    item_2: Kripto para birimini saklayın, satın alın, satın, kazanın, çekin - güvenli, hızlı ve basit
+  button: Uygulamayı İndir
+
+section_5:
+  items:
+    item_0: Sunumu İndir
+    item_1: Teknik İncelemeyi İndir
+
+section_6:
+  title: StableNFT belirteçleri nelerdir ve nasıl çalışırlar?
+  description: Voola'nın istikrarlı NFT'Sİ, mal ve hizmetler için ödeme yapmak, göndermek, yalnızca çevrimiçi değil, aynı zamanda kripto kuponları şeklinde vermek için kullanabileceğiniz belirli bir mezhebe (örneğin 100$) sahip bir altın sikke sanatıdır. Akıllı sözleşme sistemimiz, bir mağazada değişiklik almış gibi İstikrarlı NFT alışverişinde bulunmanıza olanak tanır. Örneğin, kartınıza 40$ çekmeniz gerekir ve yalnızca 100$ NFT'NİZ vardır. Akıllı cüzdanın kendisi NFT'Yİ 100$ yakacak, kartınızı 40$ dolduracak ve 60$ yeni basacak StableNFT cüzdanına.
+
+section_7:
+  title: StableNFT Nereden alınır?
+  description: StableNFT marketplace'imizden ve diğer yazarların NFT token'larından satın alabilirsiniz.
+
+section_8:
+  title: Voola tarafından desteklenen varlıklar ve blok zincirler
+  description: Liste devam ediyor...
+
+section_9:
+  title: Neden SmartCard’e ihtiyacım var?
+  description: Varlıklar borsada, çevrimiçi hizmetlerde veya bilgisayardaki bir uygulamada saklanabilir. Tüm bu yöntemler son derece risklidir, çünkü borsalardaki hesaplar genellikle saldırıya uğrar ve fonlar çalınır. Şu anda, kripto para birimlerini depolamanın en güvenli bir yolu var – hacklenemeyen bir donanım aygıtı. SmartCard İle varlıkların güvenliği konusunda endişelenemezsiniz.
+
+section_10:
+  title: Kripto Kuponu VoolaNote
+  description: Kuponlarımız, grafik tasarımdan üretime kadar en üst düzeyde güvenlik sağlar ve bu da onları gerçek banknotlarla karşılaştırılabilir kılar. Baskı işlemi sıkı güvenlik protokolüne uygun olarak gerçekleştirilir ve Dubai'de BAE'nin yetkisi altında gerçekleşir. VoolaNote kripto para satın alma olasılığını basitleştirir. Bir Kupon satın almanın çok sayıda yolu, platformu birçok ülkenin vatandaşlarına erişilebilir kılar. Bir Kupon satın almak için aşağıdaki yöntemler sunulmaktadır':'
+  items:
+    item_0: Halka açık yerlerde bulunan terminallerde kupon satın alma
+    item_1: Mağazanın kasasında bir kupon satın almak, örneğin Netflix hediye kartı kadar kolaydır
+    item_2: Voola Cüzdan mobil uygulaması üzerinden kupon satın alma
+  content: Kripto Kuponu, banka kartlarıyla ödeme yapmak yerine size zaman kazandıracak. Bu ödeme yöntemi, Kripto Kupon ile kripto para satın almanın en ucuz yolunu sunar, anında kripto para ile satın alabilir, takas edebilir ve işlem yapabilirsiniz!
+
+section_11:
+  title: WeOla Messenger
+  description: Bugün piyasada mevcut olan hiçbir uygulama, kripto cüzdanlar da dahil olmak üzere uygulamasında 10'dan fazla hizmet uygulayan Voola'nın yeni uygulamasında olduğu kadar kullanışlı işlevler sunmayacaktır. <br /><br />Yüksek derecede korumaya sahiptir ve yalnızca yazışmalarınızı ve kişisel verilerinizi dış saldırılara karşı değil, aynı zamanda başka bir kullanıcıya hızlı transferler yaparken, işinizi yürütürken, faturalarınızı öderken, evde yemek siparişi verirken, taksilerde, mallarda ve diğer hizmetlerde paranızı da güvenilir bir şekilde korur. Messenger tüm dünyada VPN olmadan çalışır. Çin'de bile kurulum için kullanılabilir. Ve sesli iletişim de BAE'de çalışıyor. <br /><br /> Ayrıca, bu uygulamada gömülü olan en benzersiz işlevsellik, dünyada 1 milyardan fazla kullanıcının arama yapabilmesidir. Android ve iOS için yeni WeOla messenger'ı indirebilir ve tüm dünyayla tamamen ücretsiz iletişim kurabilirsiniz. WeOla en popüler habercilerle uyumludur.
+  button: Uygulamayı İndir
+
+section_12:
+  title: Voola OS
+  description: Tam fikri mülkiyet ve ticari marka hakları da dahil olmak üzere güçlü fikri mülkiyet haklarıyla desteklenen, büyük şirketlere bağlı olmayan tek bağımsız açık kaynaklı mobil işletim sistemidir. Voola OS, Litvanyalı BT şirketi «Labaratory of seven possibilities UAB» tarafından 2017'ten bu yana birlikte çalışan verimli ve yüksek nitelikli mühendislerden oluşan bir ekip tarafından geliştirilmiştir. <br /><br />Voola OS, şirketler ve hükümetler için ideal bir stratejik çözümdür ve OS alternatif arayan mobil meraklılar için faydalı olacaktır.
+  button: Daha fazla oku
+
+section_13:
+  title: Wallet Uygulama
+  description: Voola App ile Android ve Apple cihazlarınızda kripto para birimlerini güvenli bir şekilde saklayın, dijital varlıklarınızın güvende olduğuna dair size güven verir.
+  button: Uygulamayı İndir
+  content: Bizim app yakında hazır olacak..
+
+section_14:
+  title: Güncellemelerimiz için bizi izlemeye devam edin.
+  description: Bize destek olursanız ve Telegram kanallarımıza abone olursanız minnettar oluruz.
+
+navbar:
+  items:
+    item_0: Voola sana ne veriyor?
+    item_1: Cryptocurrency kartları
+    item_2: StableNFT belirteci nedir?
+    item_3: VoolaNote kripto para kuponu
+    item_4: WeOla messenger
+    item_5: İşletim sistemi Voola OS
+    item_6: Wallet uygulama
+    item_7: Bizimle iletişime geçin
+
+footer:
+  items:
+    item_0:
+      content: NFTs E-Marketplace provider
+      link: licensee Voola DMCC 854291 registration number DMCC194133
+    item_1:
+      content: 2022 UAB
+      link: Labaratory of Seven Possibilities
+    item_2:
+      content: operates Voola Platform and is registered under number
+      link: '306026599'
+    item_3:
+      content: by the State Enterprise Centre of Registers of the Republic of Lithuania as a provider of activities of a virtual currency exchange operator.
+  navbar:
+    items:
+      item_0: Voola AML
+      item_1: Gizlilik Politikası
+      item_2: Çerez Politikası
+      item_3: Şartlar ve Koşullar
+      item_4: Bizimle iletişime geçin
