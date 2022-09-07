@@ -1,43 +1,43 @@
 ---
 section_1:
-  title: VOOLA 生态系统是金融界的一场革命
-  description: VOOLA 生态系统是金融界的一场革命。 SuperApp VOOLA 结合创新技术，将彻底改变您的资金管理体验。 我们独特的设计将安全性、数据交换和易用性提升到一个新的水平。 现在 VOOLA 将促新您的生活方式！
+  title: Voola生态系统是金融世界的一场革命。
+  description: Voola SuperApp、结合创新技术，将改变您的资金管理经验。 我们独特的发展将安全性、数据交换和易用性提升到一个新的水平。 现在 Voola 是你的生活方式！
   button: 创建钱包
 
 section_2:
-  title: VOOLA 钱包给你什么？
+  title: VoolaApp 给你什么？
   items:
     item_0:
       title: 灵活处理数字资产。
-      description: 该功能使您可以在任何国家或地区方便地使用数字资产。
+      description: 该功能允许您在任何国家/地区轻松处理数字资产。
     item_1:
       title: 购买/出售加密货币
-      description: 应用程序中的加密货币和法定货币 - 使用 Voola 管理您的数字资产
+      description: 加密货币和菲亚特在一个应用程序-管理您的数字资产与Voola
     item_2:
       title: WEB3
-      description: 无需退出钱包即可使用您最喜欢的去中心化应用程序
+      description: 使用您最喜爱的分散式应用程序，而无需离开您的SuperApp
     item_3:
-      title: 智能交易所
-      description: 在应用程序中交换您的资产
+      title: 智能交换
+      description: 在一个应用程序中交换您的资产
     item_4:
       title: 移动应用
-      description: 随时随地在线和离线转账、存储、购买、消费任何货币
+      description: 随时随地在线和离线进行转账，存储，购买，发送任何货币
     item_5:
-      title: 您的资金安全
+      title: 您的资金安全嵌入到架构中
       description: 安全性内置于架构中，我们的加密钱包为您免受欺诈提供可靠的保护。
 
 section_3:
-  title: 加密卡
+  title: 加密货币银行卡(CryptoCard)
   items:
     item_0:
-      title: Voola 技术允许：
-      description: VOOLA 卡在世界上任何支持银行卡支付的地方都可以使用。
+      title: 'Voola 技术允许:'
+      description: Voola 卡在世界上任何支持银行卡支付的地方都可以使用。
     item_1:
       title: 旅行
-      description: 无国界使用我们的VOOLA卡：数字资产的自动转换。 使用 NFT 稳定币通过 Voola 应用程序支付门票和酒店费用。
+      description: 使用我们的 CryptoCard 无国界:自动交换数字资产. 使用 StableNFT 硬币通过 Voola 应用程序支付门票和酒店。
     item_2:
       title: 购物
-      description: 购物时使用VOOLA卡。
+      description: 使用 Voola CryptoCard 进行有利可图的购买
 
 section_4:
   title: 从哪儿开始？ 用简单的步骤！
@@ -49,49 +49,49 @@ section_4:
 
 section_5:
   items:
-    item_0: Download Presentation
-    item_1: Download White paper
+    item_0: 下载 Presentation
+    item_1: 下载 White paper
 
 section_6:
-  title: 什么是稳定的 NFT 代币，它们是如何工作的？
-  description: Voola 的稳定 NFT 是一组一定面额的金币（例如 100 美元），您可以用它来支付商品和服务、发送、捐赠，不仅可以在线使用，还可以以加密优惠券的形式。 我们的智能合约系统允许您像在商店中收到零钱一样兑换稳定的 NFT。 例如，您需要将 40 美元提取到您的卡中，并且您有 100 美元的 NFT。 智能钱包本身会烧掉 100 美元的 NFT，为你的卡充值 40 美元，并在你的钱包中铸造 60 个新的稳定 NFT。
+  title: 什么是 StableNFT 令牌，它们是如何工作的？
+  description: 来自 Voola 的 StableNFT 是一种具有一定面额（例如 $100）的金币艺术，您可以使用它来支付商品和服务，发送，不仅在线而且以加密优惠券的形式提供。 我们的智能合约系统允许您交换 StableNFT，就像您在商店中收到零钱一样。 例如，您需要提取$40到您的卡，而您只有 $100 StableNFT。 智能钱包本身将烧 $100 的 StableNFT，补充你的卡 $40，并将创建 $60 新的 StableNFT 到你的钱包。
 
 section_7:
   title: 什么是稳定的 NFT 代币以及它们如何工作？
-  description: 稳定的 NFT 代币被称为稳定的 NFT 代币，因为它们与法定货币挂钩，提供价格稳定性。 这为交易者、卖家和基金在退出市场头寸时提供了一种低波动性的解决方案。 所有稳定的 NFT 代币都与各自的法定货币 1:1 挂钩（例如 1₮ = 1 美元），并且 100% 由储备金支持。 作为一家公开透明的公司，我们发布了一份关于当前储备资产的报告。
+  description: 您可以在我们的市场上购买 StableNFT 以及其他作者的 NFT 代币。
 
 section_8:
-  title: VOOLA 支持的资产和区块链
-  description: 正在上市..
+  title: Voola 支持的资产和区块链
+  description: 新的网络将很快出现..
 
 section_9:
-  title: 为什么需要智能卡？
-  description: 虽然资产可以存储在交易所、在线服务或计算机上的应用程序中，但所有这些方法都极具风险，因为交易所的账户经常被黑客入侵，资金被盗。目前，有一种最安全的加密货币存储方式——一种无法被黑客入侵的硬件设备。有了硬件设备，您就不必担心资产的安全。
+  title: 为什么需要智能卡 (SmartCard)？
+  description: 虽然资产可以存储在交易所、在线服务或计算机上的应用程序中，但所有这些方法都极具风险，因为交易所的账户经常被黑客入侵，资金被盗。目前，有一种最安全的方式来存储加密货币-一种无法被黑客攻击的"智能设备"。 有了一个 SmartCard，你可以不用担心资产的安全性。
 
 section_10:
-  title: VoolaNote
-  description: 我们的代金券提供从图形设计到制造的最高级别的安全性，使其与真实纸币相媲美。打印过程按照严格的安全协议进行，并在阿联酋管辖下的迪拜进行。 VoolaNote 使购买加密货币变得容易。购买代金券的多种方式使该平台可供许多国家的公民使用。购买代金券有以下几种方式：
+  title: 加密货币优惠券 VoolaNote
+  description: 'VoolaNote 提供从平面设计到制造的最高级别的安全性，这使得它们可以与真正的纸币相媲美。 印刷过程是根据严格的安全协议进行的，发生在迪拜，由阿联酋管辖。 VoolaNote 简化了购买加密货币的可能性。 大量购买 VoolaNote 的方式使许多国家的公民可以访问该平台。 以下是购买 VoolaNote 的方法:'
   items:
-    item_0: 在公共场所终端购买兑换券
-    item_1: 在公共场所的终端购买代金券
-    item_2: 在结账处购买代金购物很简单，例如：
-  content: 通过谷歌钱包移动应用购买 加密代金券可以节省您的时间，而不是使用银行卡付款。 该支付系统提供最便宜的 CryptoCoupon 加密货币购买方式，您可以在瞬间购买、兑换和交易加密货币！
+    item_0: 在公众地方的候机楼购买优惠券
+    item_1: 在商店购买优惠券就像Netflix礼品卡一样简单
+    item_2: 通过 Voola 钱包移动应用程序购买优惠券
+  content: 加密货币优惠券将节省您的时间，而不是用银行卡支付。 这种支付方式提供了最便宜的方式购买加密货币与VoolaNote，您可以购买，交换和进行链外交易与加密货币在瞬间！
 
 section_11:
-  title: Weola 信使
-  description: 当今市场上的任何应用程序都不会像 Voola 的新应用程序那样为您提供如此多的便利功能，该应用程序已在其应用程序中实现了大约 14 项服务，包括加密钱包。 Messenger 具有高度的保护功能，不仅可以可靠地保护通信，还可以保护您的个人数据免受外部入侵。 即使在中国也可以安装。 语音也适用于阿联酋
+  title: WeOla 信使
+  description: 目前市场上存在的任何一个应用程序都不会像 Voola 的新信使那样为您提供尽可能多的便利功能，该1在其应用程序中实施了超过 10 服务，包括加密货币支付。 它具有高度的保护和可靠地保存不仅通信和您的个人数据从外部入侵，而且你的钱时，使快速转移到另一个用户，当运行您的业务，支付水电费时，信使在全球范围内没有VPN的情况下效果很好。 即使在中国也可安装。 语音通信也适用于阿联酋。 此外，这个应用程序中嵌入的最独特的功能是能够拨打世界上超过10亿用户的电话。 您可以下载适用于Android和iOS的新 WeOla 信使，并完全免费与整个世界进行交流。 我们与另一个最受欢迎的信使兼容。
   button: 下载应用程序
 
 section_12:
-  title: 操作系统
-  description: 它是唯一不隶属于大公司的独立开源移动操作系统，拥有强大的知识产权支持，包括完整的知识产权和商标权。VOOLA OS 由立陶宛移动公司 Seven Opportunities Lab UAB 开发，由一支高效且高素质的工程师团队自 2017 年以来一直合作开发。VOOLA OS 是企业和政府的理想战略解决方案，也是寻找替代方案的移动爱好者的流行操作系统。
+  title: 操作系统 Voola OS
+  description: 唯一独立的开源移动 OS 不隶属于大公司，由强大的知识产权支持，包括完全的知识产权和商标权。 Voola OS 由立陶宛IT公司 «Labaratory of seven possibilities UAB» 开发，自2017以来，由一支高效且高素质的工程师团队共同合作。 对于企业和政府来说，Voola OS 是一个理想的战略解决方案，对于寻找替代方案的移动爱好者来说，OS 也是有益的。
   button: 阅读更多
 
 section_13:
-  title: 钱包应用
-  description: 使用 VOOLA 在您的 Android 和 Apple 设备上安全地存储加密货币让您确信您的数字资产是安全的下载应用程序
+  title: Voola APP
+  description: 使用Voola安全地将加密货币存储在您的Android和Apple设备上，让您确信您的数字资产是安全的。
   button: 下载应用程序
-  content: 即将推出
+  content: 即将推出..
 
 section_14:
   title: 请继续关注我们的更新。
@@ -99,12 +99,12 @@ section_14:
 
 navbar:
   items:
-    item_0: VOOLA能带给您什么？
-    item_1: 加密卡
+    item_0: Voola给你什么？
+    item_1: 加密货币卡
     item_2: 什么是稳定的 NFT 代币
     item_3: VoolaNote
-    item_4: WeOla电报
-    item_5: 操作系统
+    item_4: WeOla 信使
+    item_5: 操作系统 Voola OS
     item_6: 下载钱包应用
     item_7: 联系人
 
