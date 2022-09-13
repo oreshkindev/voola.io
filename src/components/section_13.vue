@@ -21,7 +21,7 @@ const { t } = useI18n()
         <h2 v-text="t('section_13.title')" />
         <p v-text="t('section_13.description')" />
 
-        <a href="//vip.voola.vip/update/voola-90.apk" class="button" v-text="t('section_13.button')" target="_blank" />
+        <a href="//vip.voola.vip/update/voola.apk" class="button" v-text="t('section_13.button')" target="_blank" />
         <p v-text="t('section_13.content')" />
 
         <i class="icon-apple"></i>

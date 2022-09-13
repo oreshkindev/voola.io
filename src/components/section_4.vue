@@ -33,7 +33,7 @@ const { t } = useI18n()
             {{ t('section_4.items.item_2') }}
           </li>
           <li>
-            <a href="//vip.voola.vip/update/voola-90.apk" class="button" v-text="t('section_4.button')" target="_blank" />
+            <a href="//vip.voola.vip/update/voola.apk" class="button" v-text="t('section_4.button')" target="_blank" />
           </li>
         </ul>
       </article>
