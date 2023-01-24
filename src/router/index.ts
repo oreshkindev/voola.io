@@ -14,10 +14,6 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('./views/terms-and-conditions.vue'),
   },
   {
-    path: '/privacy-policy',
-    component: () => import('./views/privacy-policy.vue'),
-  },
-  {
     path: '/aml',
     component: () => import('./views/aml.vue'),
   },

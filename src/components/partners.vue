@@ -36,8 +36,12 @@ import Grid from '../components/grid.vue'
     </article>
 
     <article>
+      <img src="../assets/images/apple.svg" alt="" />
+    </article>
+
+    <article>
       <a href="https://blockchain-life.com/europe" target="_blank">
-        <img src="../assets/images/Logo_black_2022.svg" alt="IХ Международный форум по блокчейну, криптовалютам и майнингу" />
+        <img src="../assets/images/Logo_black_2023.svg" alt="" />
       </a>
     </article>
   </grid>

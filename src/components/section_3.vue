@@ -21,10 +21,10 @@ const { t } = useI18n()
         <p v-text="t('section_3.items.item_0.description')" />
       </Cards>
 
-      <Cards icon="location">
+      <!-- <Cards icon="location">
         <h3 v-text="t('section_3.items.item_1.title')" />
         <p v-text="t('section_2.items.item_1.description')" />
-      </Cards>
+      </Cards> -->
 
       <div class="empty"></div>
 
@@ -43,7 +43,7 @@ const { t } = useI18n()
 section {
   background: url('../assets/images/Group-1-1@2x.png') 50% 50% no-repeat;
   background-size: 600px;
-  padding: 100px 20px;
+  padding: 150px 20px;
 
   @media only screen and (max-width: 928px) {
     .empty {

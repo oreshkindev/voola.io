@@ -13,7 +13,7 @@ const { t } = useI18n()
     <div class="footer__wrapper">
       <ul>
         <router-link to="/aml" v-text="t('footer.navbar.items.item_0')" />
-        <router-link to="/privacy-policy" v-text="t('footer.navbar.items.item_1')" />
+        <a href="/privacy_policy_voola.pdf" v-text="t('footer.navbar.items.item_1')" target="_blank" />
         <router-link to="/cookies-policy" v-text="t('footer.navbar.items.item_2')" />
         <router-link to="/terms-and-conditions" v-text="t('footer.navbar.items.item_3')" />
         <router-link to="/contact-us" v-text="t('footer.navbar.items.item_4')" />

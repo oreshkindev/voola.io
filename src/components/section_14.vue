@@ -4,14 +4,12 @@ import { useI18n } from 'vue-i18n'
 
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import Partners from '../components/partners.vue'
-import Sponsor from '../components/sponsor.vue'
 
 const { t, locale } = useI18n()
 </script>
 
 <template>
   <section>
-    <sponsor />
     <partners />
 
     <article>
