@@ -11,6 +11,10 @@ const items = [
     title: t('navbar.items.item_0'),
   },
   {
+    id: 'h',
+    title: t('navbar.items.item_8'),
+  },
+  {
     id: 'b',
     title: t('navbar.items.item_1'),
   },
@@ -56,7 +60,7 @@ const setLocale = (item: string) => ((locale.value = item), item == 'ar-AE' ? (d
   <nav>
     <ul>
       <li v-for="(item, i) in items" :key="i" @click="setActive(i)" :class="{ active: i == selectedItem }">
-        <router-link :to="i == 7 ? '/contact-us' : ''" v-text="t('navbar.items.item_' + i + '')" v-scroll-to="'#' + item.id" />
+        <router-link :to="i == 8 ? '/contact-us' : ''" v-text="t('navbar.items.item_' + i + '')" v-scroll-to="'#' + item.id" />
       </li>
     </ul>
 

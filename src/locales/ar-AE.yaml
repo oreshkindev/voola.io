@@ -94,8 +94,13 @@ section_13:
   content: سيكون تطبيقنا متاحا قريبا..
 
 section_14:
-  title: Stay tuned for our updates.
-  description: وسنكون ممتنين لو كنت دعم لنا والاشتراك في موقعنا Telegram القنوات.
+  title: ترقبوا التحديثات لدينا.
+  description: سنكون ممتنين إذا كنت تدعم لنا والاشتراك في الشبكات الاجتماعية لدينا.
+
+section_15:
+  title: بنك NFT
+  description: بنك NFT عصري ومريح للاستخدام الشخصي والشركات
+  button: جربه الآن
 
 navbar:
   items:
@@ -107,6 +112,7 @@ navbar:
     item_5: نظام التشغيل Voola OS
     item_6: تطبيق المحفظة
     item_7: اتصل بنا
+    item_8: NFT Bank
 
 footer:
   items:

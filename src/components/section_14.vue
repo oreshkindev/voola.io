@@ -19,20 +19,32 @@ const { t, locale } = useI18n()
 
     <ul>
       <li>
-        <a :href="locale != 'zh-CN' ? '//t.me/voola_EU' : '//t.me/voola_CN'">
+        <a href="https://t.me/voola_chat" target="_blank">
           <i class="icon-telegram"></i>
         </a>
       </li>
 
       <li>
-        <a href="//twitter.com/vooladmcc">
+        <a href="//twitter.com/vooladmcc" target="_blank">
           <i class="icon-twitter"></i>
         </a>
       </li>
 
       <li>
-        <a href="//www.instagram.com/vooladmcc">
+        <a href="//www.instagram.com/vooladmcc" target="_blank">
           <i class="icon-instagram"></i>
+        </a>
+      </li>
+
+      <li>
+        <a href="//medium.com/@vooladmcc" target="_blank">
+          <i class="icon-medium"></i>
+        </a>
+      </li>
+
+      <li>
+        <a href="//www.youtube.com/@vooladmcc" target="_blank">
+          <i class="icon-youtube"></i>
         </a>
       </li>
     </ul>
@@ -45,7 +57,7 @@ section {
   text-align: center;
 
   article {
-    margin: 100px 0 0;
+    margin: 200px 0 100px;
   }
 
   svg {
@@ -56,8 +68,14 @@ section {
 
   ul {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    grid-template-columns: repeat(5, 1fr);
     margin: 80px auto 0;
+
+    @media only screen and (max-width: 928px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
     li {
       i {
         font-size: 50px;

@@ -15,11 +15,13 @@ import Section_11 from '../../components/section_11.vue'
 import Section_12 from '../../components/section_12.vue'
 import Section_13 from '../../components/section_13.vue'
 import Section_14 from '../../components/section_14.vue'
+import Section_15 from '../../components/section_15.vue'
 </script>
 
 <template>
   <Section_1 />
   <Section_2 id="a" />
+  <Section_15 id="h" />
   <Section_3 id="b" />
   <Section_4 />
   <Section_6 id="c" />

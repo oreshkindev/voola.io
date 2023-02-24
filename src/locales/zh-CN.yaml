@@ -95,7 +95,12 @@ section_13:
 
 section_14:
   title: 请继续关注我们的更新。
-  description: 如果你能支持我们并订阅我们的Telegram频道，我们将非常感激。
+  description: 如果您能支持我们并订阅我们的社会媒体，我们将不胜感激。
+
+section_15:
+  title: NFT Bank
+  description: 方便和现代的NFT银行，供个人和公司使用
+  button: 现在就试试吧
 
 navbar:
   items:
@@ -107,6 +112,7 @@ navbar:
     item_5: 操作系统 Voola OS
     item_6: 下载钱包应用
     item_7: 联系人
+    item_8: NFT Bank
 
 footer:
   items:

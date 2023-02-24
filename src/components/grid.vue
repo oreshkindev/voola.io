@@ -4,7 +4,7 @@ defineProps<{ columns: number }>()
 </script>
 
 <template>
-  <div :class="['grid', columns == 3 ? 'grid__3' : 'grid__2']">
+  <div :class="['grid', columns == 3 ? 'grid__3' : columns == 2 ? 'grid__2' : '']">
     <slot></slot>
   </div>
 </template>

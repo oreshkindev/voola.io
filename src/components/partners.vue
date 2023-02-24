@@ -53,7 +53,7 @@ article {
   padding: 40px;
 
   img {
-    width: 200px;
+    width: 190px;
     height: 62px;
   }
 }

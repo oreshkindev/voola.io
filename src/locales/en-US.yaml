@@ -45,7 +45,7 @@ section_4:
     item_0: Download the app
     item_1: Create your first wallet
     item_2: Store, buy, sell, earn, withdraw cryptocurrency – safely, quickly and simply
-  button: Download App
+  button: Download APK
 
 section_5:
   items:
@@ -90,12 +90,17 @@ section_12:
 section_13:
   title: Wallet App
   description: Securely store cryptocurrencies on your Android and Apple devices with VOOLA Gives you confidence that your digital assets are safe.
-  button: Download App
+  button: Download APK
   content: Our app will be available soon..
 
 section_14:
   title: Stay tuned for our updates.
-  description: We would be grateful if you would support us and subscribe to our Telegram channels.
+  description: We would be grateful if you would support us and subscribe to our social media.
+
+section_15:
+  title: NFT Bank
+  description: Convenient and modern NFT bank for personal and corporate use
+  button: Try it now
 
 navbar:
   items:
@@ -107,6 +112,7 @@ navbar:
     item_5: Operating system
     item_6: Wallet app
     item_7: Contact Us
+    item_8: NFT Bank
 
 footer:
   items:

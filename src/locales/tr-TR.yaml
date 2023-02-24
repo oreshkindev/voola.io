@@ -95,7 +95,12 @@ section_13:
 
 section_14:
   title: Güncellemelerimiz için bizi izlemeye devam edin.
-  description: Bize destek olursanız ve Telegram kanallarımıza abone olursanız minnettar oluruz.
+  description: Bizi desteklerseniz ve sosyal ağlarımıza abone olursanız minnettar olacağız.
+
+section_15:
+  title: NFT Bank
+  description: Kişisel ve kurumsal kullanım için kullanışlı ve modern NFT bankası
+  button: Şimdi dene
 
 navbar:
   items:
@@ -107,6 +112,7 @@ navbar:
     item_5: İşletim sistemi Voola OS
     item_6: Wallet uygulama
     item_7: Bizimle iletişime geçin
+    item_8: NFT Bank
 
 footer:
   items:

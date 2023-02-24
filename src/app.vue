@@ -35,10 +35,10 @@ if (locale.value == 'ar-AE') {
   font-family: 'Iconly';
   font-style: normal;
   font-weight: 400;
-  src: url('./assets/fonts/icons/iconly.eot?1662118872208');
-  src: url('./assets/fonts/icons/iconly.eot?#iefix') format('embedded-opentype'), url('./assets/fonts/icons/iconly.woff2?1662118872208') format('woff2'),
-    url('./assets/fonts/icons/iconly.woff?1662118872208') format('woff'), url('./assets/fonts/icons/iconly.ttf?1662118872208') format('truetype'),
-    url('./assets/fonts/icons/iconly.svg?1662118872208#Iconly') format('svg');
+  src: url('./assets/fonts/icons/iconly.eot?1677056712373');
+  src: url('./assets/fonts/icons/iconly.eot?#iefix') format('embedded-opentype'), url('./assets/fonts/icons/iconly.woff2?1677056712373') format('woff2'),
+    url('./assets/fonts/icons/iconly.woff?1677056712373') format('woff'), url('./assets/fonts/icons/iconly.ttf?1677056712373') format('truetype'),
+    url('./assets/fonts/icons/iconly.svg?1677056712373#Iconly') format('svg');
 }
 
 [class='icon'],
@@ -158,6 +158,14 @@ if (locale.value == 'ar-AE') {
 
 .icon-3-user:before {
   content: '\e019';
+}
+
+.icon-youtube:before {
+  content: '\e01a';
+}
+
+.icon-medium:before {
+  content: '\e01b';
 }
 
 // initialize project fonts from @assets
