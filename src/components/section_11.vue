@@ -55,6 +55,10 @@ section {
     cursor: pointer;
     margin: 0 0 0 20px;
 
+    @media only screen and (max-width: 928px) {
+      margin: auto;
+    }
+
     &:hover {
       opacity: 0.6;
     }
@@ -93,6 +97,10 @@ section {
     color: var(--scheme-v2);
     margin: 0 -20px 0 20px;
     padding: 40px;
+
+    @media only screen and (max-width: 928px) {
+      margin: auto;
+    }
   }
 
   i {

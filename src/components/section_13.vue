@@ -92,6 +92,10 @@ section {
     color: var(--scheme-v2);
     margin: 0 -20px 0 20px;
     padding: 40px;
+
+    @media only screen and (max-width: 928px) {
+      margin: auto;
+    }
   }
 
   .picsource {

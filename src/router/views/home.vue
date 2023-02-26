@@ -16,6 +16,7 @@ import Section_12 from '../../components/section_12.vue'
 import Section_13 from '../../components/section_13.vue'
 import Section_14 from '../../components/section_14.vue'
 import Section_15 from '../../components/section_15.vue'
+import Dialog from '../../components/dialog.vue'
 </script>
 
 <template>
@@ -33,6 +34,10 @@ import Section_15 from '../../components/section_15.vue'
   <Section_12 id="f" />
   <Section_13 id="g" />
   <Section_14 />
+
+  <Teleport to="body">
+    <Dialog />
+  </Teleport>
 </template>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

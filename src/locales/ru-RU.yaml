@@ -102,6 +102,10 @@ section_15:
   description: Удобный и современный NFT банк для личного и корпоративного использования
   button: Попробовать
 
+dialog:
+  title: Crypto Hamsters
+  description: Уникальная коллекция NFT от Voola
+
 navbar:
   items:
     item_0: Что дает Voola?

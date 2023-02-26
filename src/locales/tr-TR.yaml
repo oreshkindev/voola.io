@@ -102,6 +102,10 @@ section_15:
   description: Kişisel ve kurumsal kullanım için kullanışlı ve modern NFT bankası
   button: Şimdi dene
 
+dialog:
+  title: Crypto Hamsters
+  description: Уникальная коллекция NFT от Voola
+
 navbar:
   items:
     item_0: Voola sana ne veriyor?

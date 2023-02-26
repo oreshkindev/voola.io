@@ -14,6 +14,7 @@ const view = ref(false)
 
 <template>
   <section>
+    <h2 v-text="t('section_15.title')" />
     <grid :columns="view ? 1 : 2" :class="{ transparent: view }">
       <player v-if="view" uri="https://www.youtube.com/embed/oQcsK8NPq9c" />
 

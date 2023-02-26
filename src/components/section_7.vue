@@ -17,8 +17,6 @@ const { t } = useI18n()
       </article>
 
       <picture>
-        <source media="(max-width: 928px)" srcset="../assets/images/Group_108.png" />
-        <source media="(min-width: 928px)" srcset="../assets/images/Group-108@2x.png" />
         <img src="../assets/images/Group-108@2x.png" alt="" />
       </picture>
     </grid>

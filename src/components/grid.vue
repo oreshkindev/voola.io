@@ -19,17 +19,17 @@ defineProps<{ columns: number }>()
     grid-template-columns: repeat(2, 1fr);
 
     @media only screen and (max-width: 928px) {
-      grid-template-columns: 1fr !important;
-      justify-items: center;
+      grid-template: auto / 1fr;
+      place-content: center;
     }
   }
 
   &__3 {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template: auto / repeat(3, 1fr);
 
     @media only screen and (max-width: 928px) {
-      grid-template-columns: repeat(2, 1fr);
-      justify-items: center;
+      grid-template: auto / repeat(2, 1fr);
+      place-content: center;
     }
 
     @media only screen and (max-width: 628px) {
