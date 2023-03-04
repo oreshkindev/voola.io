@@ -38,7 +38,7 @@ setTimeout(() => {
 
     <p>{{ t('dialog.description') }}</p>
 
-    <a href="//spacehamster.vooladmcc.com" target="_blank">{{ t('dialog.title') }}</a>
+    <a href="https://spacehamster.vooladmcc.com" target="_blank">{{ t('dialog.title') }}</a>
   </dialog>
 </template>
 

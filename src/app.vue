@@ -254,7 +254,7 @@ body {
 
   // user-select: none;
   ::selection {
-    background: var(--scheme-v3);
+    background: var(--scheme-v4);
   }
 }
 

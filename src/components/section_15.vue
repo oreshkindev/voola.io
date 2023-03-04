@@ -6,10 +6,13 @@ import { useI18n } from 'vue-i18n'
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import Grid from '../components/grid.vue'
 import Player from '../components/player.vue'
+import Form from '../components/form.vue'
 
 const { t } = useI18n()
 
 const view = ref(false)
+
+const visible = ref(false)
 </script>
 
 <template>
@@ -20,7 +23,7 @@ const view = ref(false)
 
       <p v-else></p>
 
-      <article :class="{ clear: view }">
+      <article v-if="!visible" :class="{ clear: view }">
         <h2 v-text="t('section_15.title')" />
         <p v-text="t('section_15.description')" />
 
@@ -29,7 +32,10 @@ const view = ref(false)
         <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1024 721" width="60" height="60" @click="view = !view">
           <path fill="var(--scheme-v3)" d="m407 493 276-143-276-144v287z" />
         </svg>
+        <p><i class="icon-apple" @click="visible = !visible"></i>TestFlight</p>
       </article>
+
+      <Form ctx="banking-app" v-else @visible="visible = false" />
     </grid>
   </section>
 </template>
@@ -44,6 +50,21 @@ section {
 
   .clear {
     margin: 0;
+  }
+
+  p {
+    i {
+      display: inline-block;
+      vertical-align: bottom;
+      font-size: 40px;
+      margin: 0 10px 0 0 !important;
+      color: var(--scheme-v2) !important;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 0.6;
+      }
+    }
   }
 
   div {
