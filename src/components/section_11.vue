@@ -15,7 +15,7 @@ const view = ref(false)
 <template>
   <section>
     <grid :columns="view ? 1 : 2">
-      <player v-if="view" uri="https://www.youtube.com/embed/0oOizOnQWyQ" :view="view" />
+      <player v-if="view" uri="https://www.youtube.com/embed/XD9MCYZ4FZw" :view="view" />
 
       <div v-else class="picsource">
         <picture class="transformed">
@@ -35,7 +35,7 @@ const view = ref(false)
         <h2 v-text="t('section_11.title')" />
         <p v-text="t('section_11.description')" />
 
-        <a href="//vip.voola.vip/weola/WeOla-full-arm64-v8a-release.apk" class="button" v-text="t('section_11.button')" target="_blank" />
+        <a href="https://messenger.tbcc.com/latest/WeOla-full-arm64-v8a-release.apk" class="button" v-text="t('section_11.button')" target="_blank" />
 
         <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1024 721" width="60" height="60" @click="view = !view">
           <path fill="var(--scheme-v3)" d="m407 493 276-143-276-144v287z" />

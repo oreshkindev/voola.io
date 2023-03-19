@@ -46,6 +46,9 @@ section {
   padding: 150px 20px;
 
   @media only screen and (max-width: 928px) {
+    article {
+      margin: auto;
+    }
     .empty {
       display: none;
     }

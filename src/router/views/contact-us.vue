@@ -19,7 +19,7 @@ import Backward from '../../components/backward.vue'
           Republic of Lithuania as a provider of activities of a virtual currency exchange operator.
         </li>
 
-        <li>Mail: <a href="mailto:hello@voola.io">hello@voola.io</a></li>
+        <li>Mail: <a href="mailto:info@vooladmcc.com">info@vooladmcc.com</a></li>
       </ul>
     </article>
   </section>

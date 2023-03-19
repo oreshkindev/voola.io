@@ -54,6 +54,9 @@ section {
   h1,
   p {
     max-width: 500px;
+    @media only screen and (max-width: 928px) {
+      margin: auto;
+    }
   }
 
   h1,
@@ -61,7 +64,7 @@ section {
     margin: 100px 0 40px;
 
     @media only screen and (max-width: 928px) {
-      margin: 50px 0 40px;
+      margin: 50px auto 40px;
     }
   }
 }

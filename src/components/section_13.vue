@@ -16,8 +16,8 @@ const visible = ref(false)
 </script>
 
 <template>
-  <section>
-    <player v-if="view" uri="https://www.youtube.com/embed/qJ1mB2RZSr4" :view="view" />
+  <section :style="view ? `grid-template: 1fr / 1fr;` : ``">
+    <player v-if="view" uri="https://www.youtube.com/embed/9iM4wD8-cqA" :view="view" />
 
     <picture v-else>
       <img src="../assets/images/[Mockup]-iPhone-25@2x.png" alt="" />
