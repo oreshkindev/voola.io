@@ -18,7 +18,9 @@ const { t } = useI18n()
         <li><router-link to="/stablenft_voola_eng.pdf" v-text="`VOOLA stableNFT`" target="_blank" /></li>
         <li><router-link to="/summary_voola_eng.pdf" v-text="`VOOLA summary`" target="_blank" /></li>
         <li><router-link to="/voola_os_whitepaper_eng.pdf" v-text="`VOOLA OS whitepaper`" target="_blank" /></li>
-        <li><router-link to="https://spacehamster.vooladmcc.com" v-text="`VOOLA Crypto Hamsters`" target="_blank" /></li>
+        <li>
+          <a href="https://spacehamster.vooladmcc.com" target="_blank">VOOLA Crypto Hamsters</a>
+        </li>
       </ul>
 
       <ul>

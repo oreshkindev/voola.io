@@ -14,8 +14,8 @@ import Backward from '../../components/backward.vue'
     <article>
       <h2>Introduction</h2>
       <p>
-        Please, read this User Agreement (“Agreement”) intently before using the https://voola.io website (“Website”), Android and IOS mobile apps, and online services (“Services”)
-        operated and rendered via this Website.
+        Please, read this User Agreement (“Agreement”) intently before using the <a href="https://vooladmcc.com/" target="_blank">https://vooladmcc.com/</a> website (“Website”),
+        Android and IOS mobile apps, and online services (“Services”) operated and rendered via this Website.
       </p>
 
       <p>
@@ -101,7 +101,7 @@ import Backward from '../../components/backward.vue'
         Agreement, at our own discretion. Please, check our website on a regular basis to keep updated in that regard.
       </p>
 
-      <p>The Fees. Services fees can be found <a href="https://voola.io/fees/" target="_blank">here</a>. We reserve the right to change the fees from time to time.</p>
+      <!-- <p>The Fees. Services fees can be found <a href="https://vooladmcc.com/fees/" target="_blank">here</a>. We reserve the right to change the fees from time to time.</p> -->
 
       <h2>Taxation</h2>
       <p>
@@ -182,7 +182,7 @@ import Backward from '../../components/backward.vue'
       <p>
         While we use reasonable endeavors to ensure that the Website is secure and free of errors, viruses and other malware, we do not warrant or guarantee in that regard. Users
         take responsibility for their own security, that of their personal details and their computers, and any other potential or obvious risks. You commit yourself to notify us
-        immediately of any unauthorized access to your account or any other breach of security by e-mail: <a href="mailto:hello@voola.io">hello@voola.io</a>.
+        immediately of any unauthorized access to your account or any other breach of security by e-mail: <a href="mailto:info@vooladmcc.com">info@vooladmcc.com</a>.
       </p>
 
       <h2>Limitation of Liability</h2>
@@ -224,7 +224,7 @@ import Backward from '../../components/backward.vue'
       </p>
 
       <h2>Contact Us</h2>
-      <p>Should you have any questions about this Agreement, please contact us at: <a href="mailto:hello@voola.io">hello@voola.io</a>.</p>
+      <p>Should you have any questions about this Agreement, please contact us at: <a href="mailto:info@vooladmcc.com">info@vooladmcc.com</a>.</p>
     </article>
   </section>
 </template>

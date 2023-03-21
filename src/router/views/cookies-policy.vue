@@ -12,7 +12,10 @@ import Backward from '../../components/backward.vue'
     <h1>Cookies Policy</h1>
 
     <article>
-      <p>VOOLA (“we”, “us”, “our”) uses cookies (“Cookies”) on the https://voola.io website (“Website”), where we render our Services (“Services”) to the Users (“you”, “your”).</p>
+      <p>
+        VOOLA (“we”, “us”, “our”) uses cookies (“Cookies”) on the <a href="https://vooladmcc.com/" target="_blank">https://vooladmcc.com/</a> website (“Website”), where we render
+        our Services (“Services”) to the Users (“you”, “your”).
+      </p>
 
       <ul>
         Our Cookies Policy explains what Cookies are, why and how we use Cookies, how the Third Parties (our partners, service providers, contractors, agents, social media, any
@@ -59,7 +62,7 @@ import Backward from '../../components/backward.vue'
         Services, we advise you to accept our Cookies. However, if you wish to disable or delete the Cookies, visit your web browser settings or your device’s instructions. Please,
         note that if you choose to opt out the Cookies, our Website will not be able to memorize your visit and make it as convenient to you as we would like to perform. Should you
         have any questions regarding this Cookies Policy, please contact us at:
-        <a href="mailto:hello@voola.io">hello@voola.io</a>.
+        <a href="mailto:info@vooladmcc.com">info@vooladmcc.com</a>.
       </p>
     </article>
   </section>
